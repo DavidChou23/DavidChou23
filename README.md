@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at NYCU in CS
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: <ul>
-<li><a href='Davidchouforcs@gmail.com'>email : davidchouforcs@gmail.com</a></li>
+<li>email : chouforcs@gmail.com</li>
 <li><a href="https://www.facebook.com/davidchou93/">facebook page</a></li>
 </ul>
 <!---
